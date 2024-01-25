@@ -12,5 +12,7 @@ class MyClass {
 
     sum = x + y;  // Calculate the sum of x + y
     System.out.println("Sum is: " + sum); // Print the sum
+
+     System.out.println("Please Like & Subscribe to learn more: ");
   }
 } 
